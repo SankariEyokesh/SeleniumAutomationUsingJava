@@ -1,3 +1,9 @@
+/* Writting selenium code with TESTNG annotations to 
+ (i) Login to the URL aiforevery1.com 
+ (ii)Inputs were taken from the Excel sheet aiforevery1_TestData.xlsx
+ (iii) Sheet Name is 'RegisterDemo'
+ 
+ */
 package aiforevery1;
 
 import org.openqa.selenium.By;
